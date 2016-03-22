@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>CDAE Playlist</title>
+    <creator>Charles Jr</creator>
+    <info>Tracklist</info>
+
+    <trackList>
+
+        <track>
+          <location>Musique/X MALEYA feat J MARTNS MON EX.mp3</location>
+          <!-- <creator>Bedrich Smetana</creator>
+          <album>Má Vlast</album>
+          <title>La Moldau (Vltava)</title>
+          <annotation>I love this song</annotation>
+          <duration>32000</duration>
+          <image>covers/1.jpg</image>
+          <info></info> -->
+        </track>
+        
+        <track>
+          <location>Musique/Magnificat Anima Mea Dominum - Buxtehude.mp3</location>
+         <!--  <creator>Antonin Dvorak</creator>
+          <album>La Symphonie du Nouveau Monde</album>-->
+          <title>Magnificat Anima Mea Dominum - Buxtehude</title>
+          <annotation></annotation>
+          <duration></duration>
+          <!-- <image>covers/2.jpg</image>-->
+          <info></info> 
+        </track>
+        
+        <track>
+          <location>Musique/MANU DIBANGO ( ongele mba ) Cameroon.mp3</location>
+          <!-- <creator>Jean-Claude Petit</creator>
+          <album>Le Hussard sur le Toit</album>
+          <title>Le Hussard sur le Toit</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image>covers/3.jpg</image>
+          <info></info>
+          <link></link> --> 
+        </track>
+
+    </trackList>
+</playlist>
